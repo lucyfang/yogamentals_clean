@@ -1,52 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yogamentals</title>
+    <title>Yogamentals</title>
     <description>Yoga is a physical exercise that strengthens the body in various ways. One important body part that yoga helps to stretch is the brain. The fundamental theories of yoga (yogamentals) can bring great wisdom to the rest of our lives. This blog explores the philosophies of life in today’s world through science, research, and data analysis.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Feb 2018 06:56:58 +0530</pubDate>
-    <lastBuildDate>Wed, 14 Feb 2018 06:56:58 +0530</lastBuildDate>
+    <link>http://localhost:4000/yogamentals_clean/</link>
+    <atom:link href="http://localhost:4000/yogamentals_clean/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Feb 2018 09:21:18 +0530</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 09:21:18 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>A Clean Jekyll theme</title>
-        <description>&lt;p&gt;##Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. Cras sit amet porta quam. Donec eu gravida elit. Sed a diam eget sem lacinia maximus vel et elit. Nullam id egestas nulla. Duis dapibus at quam eu dapibus. Maecenas ullamcorper placerat eros, eu posuere enim bibendum eget. Phasellus mollis enim molestie tortor aliquam, nec auctor ligula &lt;code class=&quot;highlighter-rouge&quot;&gt;fringilla&lt;/code&gt;.&lt;/p&gt;
+        <title>Knowledge &amp; Influence</title>
+        <description>&lt;p&gt;The biggest advantage that humans have over anything else on Earth is our intelligence.  Throughout history, humans have used their brains to control plants, animals, and other elements of nature.  We have created scientific methods to learn and experiment with everything in this universe.  Once we have knowledge about something, we have control over it.  Another side effect of knowledge is that those with knowledge also have control over those who do not.  Not only does the chemist have control over the products that he works with, but he or she also has control over everyone else in the world who knows nothing about chemicals.&lt;/p&gt;
 
-&lt;p&gt;##Sample Code&lt;/p&gt;
+&lt;p&gt;Those with knowledge have the responsibility to use that knowledge in a positive way.  People get influenced easily and that is one of the primary ways that we learn.  A newborn baby has no knowledge and must rely on his or her surroundings to gain that knowledge.  A parent, guardian, or friend becomes the source of knowledge for the baby and consequently has an immense amount of control over the baby for many years.  The parent is responsible for proper use of his knowledge to help raise a healthy child.  In society, those with knowledge have immense control over those that do not.  In Malcom Gladwell’s book “The Tipping Point”, he explains the Law of the Few (https://en.wikipedia.org/wiki/The_Tipping_Point).  Three kinds of people have tremendous influence over the people of the world: those with many connections, those with information, and those with sales skills.  These people influence the way people dress, the way people speak, and even the way people treat others.  From the popularity of Hush Puppies to crime rates in NYC, Malcom Gladwell found that a few influencers were able to change the people’s preferences and the course of history.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-go&quot; data-lang=&quot;go&quot;&gt;&lt;span class=&quot;k&quot;&gt;package&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+&lt;p&gt;Two interesting conclusions need to be made.  1) The motives of influential people are not always clear and may not always align with our views; as a result, we must not succumb to influence easily, but rather only develop an opinion after we have enough knowledge. 2) Once we have knowledge of something, we must be mindful of the immense power and use that power carefully and appropriately.&lt;/p&gt;
 
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;net/http&quot;&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rw&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ResponseWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rw&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([]&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello world.&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HandleFunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;response&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ListenAndServe&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;:3000&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;##List&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Do this&lt;/li&gt;
-  &lt;li&gt;Do that&lt;/li&gt;
-  &lt;li&gt;Bla Bla Bla&lt;/li&gt;
-  &lt;li&gt;Go to Sleep&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;##Links
-&lt;a href=&quot;http://example.net/&quot;&gt;This link&lt;/a&gt; has no title attribute.&lt;/p&gt;
+&lt;p&gt;This world is extremely complex, and we all need help from experts to make decisions.  We have created governments, laws, literature, media, and many other sources of guidance.  Schools, and specifically teachers, spend hours a day guiding students through the information needed to survive.  As the students develop an understanding of the world, two important responsibilities arise.  The students have the responsibility to question all the information that they receive.  The best teachers and mentors that I have come across have an interesting phrase that has resonated with me for years: “Don’t believe everything that I say.”  We all have a very important responsibility to process the information that we intake and question it.  Believing the information blindly is lazy and irresponsible.  Regurgitating others’ opinions as our own is even more irresponsible and lazy.  As the students grow up, gain knowledge, and become influencers themselves, it is imperative that they use this knowledge appropriately.  This is far from easy, as laziness, self-interest, ego, and many other demons affect the way we influence others.  The second reasonability belongs to those with knowledge.  How we influence the world will shape the minds and architecture of the future, and being mindful of this every day is an imperative.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 27 Sep 2015 00:21:59 +0530</pubDate>
-        <link>http://localhost:4000/blog/2015/09/26/clean-theme.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/09/26/clean-theme.html</guid>
+        <pubDate>Tue, 07 Nov 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2017/11/07/knowledge.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2017/11/07/knowledge.html</guid>
         
         
         <category>blog</category>
@@ -54,12 +31,177 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
       </item>
     
       <item>
-        <title>Hello</title>
-        <description>&lt;p&gt;Hello Jekyll&lt;/p&gt;
+        <title>Judging Crimes</title>
+        <description>&lt;p&gt;From the Code of Hammurabi to the US Constitution, appropriate crime and punishment exemplify fairness.  Jaywalking and murder differ in consequence.  This blog post juxtaposes two types of crimes — those committed out of anger and those derived from desire.  Anger here refers to a general state of agitation while desire describes a craving for something pleasant and an aversion for something unpleasant.  Much of our judicial system evaluates crime on its end result, an apt and practical method.  However, a just society must understand its crimes’ origins.&lt;/p&gt;
+
+&lt;p&gt;Marcus Aurelius proclaims in Meditations: “the sin committed out of pleasure deserves a harsher rebuke than the one committed out of pain. The angry man is more like a victim of wrongdoing, provoked by pain to anger. The other man rushes into wrongdoing on his own, moved to action by desire.”  Anger clouds rational thought and is often preceded by suffering and followed by regret.  Crimes of desire are not 100% rational but driven more by rooted ill will.  In order to assess crimes fairly, we must improve our own judgement, dig into the motivation behind the crimes, and bring new factors — government policy, cultural environment, and upbringing — into the evaluation.&lt;/p&gt;
+
+&lt;p&gt;Anger frequents in environments of stress and hardship, and its sensually vivid crimes instill strong reactions. On the flip side, desire and its subgroups — laziness, passivity, fear, etc — produce many wrongdoings that harm silently.  Over time these evils destroy the environment, stifle freedoms, and generate anger.  Examining the various protests in history, a simple formula describes their nature: those with power desire more, committing crimes that cause anger in the powerless, and revolt ensues.  Crimes of oppression versus crimes of resistance may differ in energy, but time and time again, oppression harms more deeply.  Martin Luther King Jr. and his supporters were jailed numerous times for protests but most would agree that their crimes were far less severe than the collective repression that they were fighting.&lt;/p&gt;
+
+&lt;p&gt;I recently attended a Yom Kippur atonement service, and one unique insight was this need to redefine iniquities in today’s world.  We examined a list of modern sins written by political activist and Rabbi Michael Lerner (https://www.vbs.org/worship/meet-our-clergy/keri/blog/modern-sins).  Here is an excerpt: “the sins of accepting the current distribution of wealth and power as unchangeable…the sins of giving up on social change and focusing exclusively on personal advancement and success…the sins of dulling our outrage at the continuation of poverty, oppression, and violence in this world.”   We are finally waking up to the consequences of indifference.  Crimes of anger are not justifiable, but we must view crimes of desire with equal if not more severity; our moral value of fairness depends on it.&lt;/p&gt;
+
 </description>
-        <pubDate>Sat, 26 Sep 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/blog/2015/09/26/hello.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/09/26/hello.html</guid>
+        <pubDate>Fri, 06 Oct 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2017/10/06/judging.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2017/10/06/judging.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Put The Blame On Me</title>
+        <description>&lt;p&gt;In today’s individualistic world, the one thing we do not like to be distinguished for is blame.  Music artist Akon exclaims, “Why doesn’t anybody wanna take blame…You can put the blame on me. Said you can put the blame on me.”  In our daily lives, we rarelyheed his advice.  The gym is too far away.  Our spouses do not complement us enough.  No one recognizes our value at work.  Our natural tendency is to point the finger at anything else, and the consequences of this way of thinking are severe.&lt;/p&gt;
+
+&lt;p&gt;In the examples above, diverting blame hinders our health, our relationships, and our careers.  Because the gym is too far away, we exercise less.  We might file for divorce because of frequent fights with our spouses.  At work, we decide to contribute less since no one appreciates our work anyways.  If we exonerate ourselves of any fault, these issues remain, and we become perpetual victims.&lt;/p&gt;
+
+&lt;p&gt;What if we approached all issues from a different perspective, one that puts the accountability on ourselves?  Rather than agonizing over someone else’s problems or bad luck, we improve our own characters.   An employer might display signs of sexism or racism.  Disgust and hatred for the employer naturally arise, but putting the responsibility to change on ourselves sprouts great benefits.  Mental stress from anger or the desire to harm others diminishes.  Once the mind is clear, we act rationally and do not succumb to short term cravings.  Rather than feeling victimized, we switch to companies with nondiscriminatory management.  We might even observe our own biases, think about times when we favored one person over another because of race, talent, height, culture, or gender, and ultimately develop more compassion and fairness for everyone.  It is extremely counterproductive if the suffering from someone’s bias evolves into a sense of superiority for our own race, talent, or culture.&lt;/p&gt;
+
+&lt;p&gt;The desire to fault others naturally and easily originates in our minds, but shifting the initial reaction to a critique of ourselves improves future actions.  This technique reduces pain for everyone and begins to eradicate hate and violence.  Of course, we cannot fix all the problems of the world, and too much pressure on ourselves is ineffective.  The goal is to think clearly and commit to actions that help.  Many activists and leaders of social change believe that progress happens when a large group of people act constructively on an individual level.  We owe it to ourselves, our communities, and our world to take responsibility, and along the way we are happy.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2017/09/01/blame.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2017/09/01/blame.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Future State Of Mind</title>
+        <description>&lt;p&gt;How often do you think about the future? Thoughts about the near future — what is for dinner?  What should I wear tomorrow? Who should I hang out with on the weekend? Or thoughts about the distant future — Will I have enough money? How will I die? How will I meet my future spouse? How many kids will I have?&lt;/p&gt;
+
+&lt;p&gt;The future is when our hopes and dreams will be realized.  Modern society thrives on our ability to imagine tomorrow.  This is why thousands of Silicon Valley companies produce million-dollar valuations with no profits.  Amazon and Facebook are worth billions on expectations of returns in 5 or 10 years.  If our economy remains in status quo for even 1 year, the stock market would plunge, likely resulting in the biggest recession in history.&lt;/p&gt;
+
+&lt;p&gt;To be fair, our future thinking minds have produced great achievements.  Medical advances have greatly reduced child mortality rates and cured deadly diseases.  Skype and FaceTime allow video communication between family members who live far apart.  A large portion of the world no longer struggle with food shortages.  These luxuries would not be possible without the desire and the pressure to improve.&lt;/p&gt;
+
+&lt;p&gt;As the world grows, the burden to keep pace balloons.  Companies are targeting revenues in much shorter horizons.  New cellphone models appear every few months.  Competition in schools is intensifying.  The consequences fall on the individual.  Thinking about the future can be rooted in a few emotional states.  On one spectrum, compassion sprouts progress, as glorified by numerous Silicon Valley catchphrases.  CEO of SalesForce Marc Benioff explains, “The secret to successful hiring is this: look for the people who want to change the world.”  On the other extreme, fear or boredom pushes the individual to action — some even argue that the fear of death is the sole impetus of all human progress.  Good decision making and a healthy mind depend on the understanding of these emotional states.&lt;/p&gt;
+
+&lt;p&gt;Being consumed by the future is very dangerous.  The future is awfully unpredictable, and as the complexity of our lives augments, certainty disappears.  A feedback loop is created — someone plans for the future, the future changes so much that the plan fails, the person becomes a bit more distressed, and the person plans for the future in even greater detail.  Robert Burns famously explains, “The best-laid plans of mice and men often go awry.”   Big changes happen every few years, and dreading potential catastrophe in 10 or 30 years is unproductive and a cause of stress and depression.  Humans have accomplished so much, and appreciating the fruits of our labor here and now is extremely blissful.  Worrying simply makes the present a little bit worse.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2017/08/25/future.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2017/08/25/future.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Passivity</title>
+        <description>&lt;p&gt;​Passivity is dangerous.  Martin Luther King, Jr. famously said, “He who passively accepts evil is as much involved in it as he who helps to perpetrate it. He who accepts evil without protesting against it is really cooperating with it.”  This post attempts to explore the different forms of passivity and the consequences of inaction.&lt;/p&gt;
+
+&lt;p&gt;Passiveness appears in many avenues of our lives.  We can be passive about our weight, our jobs, and our relationships.  We can also be passive about supporting our beliefs, not donating enough time and money to important causes .  Lastly, we can be passive in thought, focusing our mental energies predominately on our own busy lives.  Living and thinking within our own bubbles are the paths of least resistance.  Many of us do want change, but our ability to act is puzzlingly weak.  Very often, we convince ourselves and each other that the cost of action is high, and sometimes it is.  We all need a basic level of comfort before we have the energy to tackle something else.  Psychologists like Maslow have postulated that humans need basic levels of food, shelter, and love before they can start thinking about other needs (https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).  For a single mother working a few jobs to get by, she might not have the time or energy to advocate a social issue close to her heart.  For the rest of us, we need to understand the consequences of passivity and reassess our values and our time.&lt;/p&gt;
+
+&lt;p&gt;Without knowing the effects of our actions, it is difficult to create a value system for those actions.  A logical corollary is that without knowing the effects of our passivity, we are blind to its consequences.  And so the first and most important action is to understand the repercussions of passiveness – we cannot be passive about this!  If being healthy is the goal, we need to learn about how our lifestyles affect our health in every way.  It is surprising how few people understand or wish to understand the detriments of looking at a computer or mobile phone screen, eating lots of meat, sleeping less than 8 hours a day, sitting at a desk for an extended period of time, and not exercising intensely (all extremely harmful).  We do not see the effects immediately, and so we passively accept our lifestyles.  We follow those around us and gradually lose the momentum to change our habits.  Of course will power is a big proponent of our decision making, but if we knew the detriments, we might behave differently.&lt;/p&gt;
+
+&lt;p&gt;Information on health is becoming more prevalent, exposing the ramifications of our habits.   There is also a lot more information on social injustices, acts of altruism, crime, and environmental changes.  News sources like Vice are trying to educate the world about major issues that affect millions of people.  It is our responsibility, our benefit, and society’s benefit to understand how the world works and to make changes when needed.  Many scientific studies are exposing the impacts of passivity.  Veteran doctors often incorrectly detect heart murmurs because of the passive way they perform this repetitive task.  Voter passiveness, being uninformed about the election candidates or not voting, can lead to detrimental consequences for a district or even a nation.  There is evidence that passive investing (use of index funds like the S&amp;amp;P 500) cause big corporations to get bigger while limiting the growth of smaller companies, and consequently augments income inequality (http://www.slate.com/articles/news_and_politics/view_from_chicago/2015/04/mutual_funds_make_air_travel_more_expensive_institutional_investors_reduce.html).  It is our imperative to learn and act on our beliefs and our morals.  There are many people with opposing views who relish in the fact that we are passive.  Chairman Mao famously said, “Passivity is fatal to us.  Our goal is to make the enemy passive.” One question that we should all ask ourselves: if we believe in something and do not act on it, do we really believe in it?&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 Feb 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2017/02/09/passivity.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2017/02/09/passivity.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Fear &amp; Greed</title>
+        <description>&lt;p&gt;CNN has an index that measures two major emotions of the markets – fear and greed.  Greed fuels the stock market to high levels while fear reverses the trend, often rapidly.  As more companies get bigger and go public, more companies fall into the grips of fear and greed.  The employees, the costumers, and anyone else involved become second-hand victims of the capitalism machine.&lt;/p&gt;
+
+&lt;p&gt;Some fear and greed is beneficial for human life.  Many of the advancements in human history can be attributed to ambition.  The free markets produce myriad improvements to our lives and fuel tremendous growth.  Similarly, fear stimulates change and development.  The advent of religion and the progress in medicine can be rooted in the fear of death.   Fear of other groups actually increases cooperation and cohesion within a group.  However, excess fear or greed can ruin a person and a society.&lt;/p&gt;
+
+&lt;p&gt;Defining excess fear is not easy, but looking at what people were afraid of in the past can be useful.   Thousands of years ago, we were afraid of famine, disease, and not being able to find a warm shelter.  Today, these issues are ameliorated for many people, and a new set of fears have taken over.  The fear of not finding a job with meaning, the fear of not keeping up with the latest trends, the fear of not getting into a good college, and the fear of missing out (FOMO) top the list.  These concerns are valid, but when they manifest in the form of fear, individual and communal happiness are in jeopardy, and that fear should be labeled as excess.  Greed acts in a similar way.  As many people stop worrying about their basic needs, they get greedy and agitate over minute problems in their bubbles of a life.  There is even a term for this phenomenon called “First World Problems” – the Huffington Post has a few great examples on this (http://www.huffingtonpost.com/streeter-seidell-/first-world-problems_b_4117701.html).   If the amount of energy associated with excess fear and greed were transferred to charity, many real world problems can be solved.&lt;/p&gt;
+
+&lt;p&gt;Excess fear and greed generate negative thoughts for an individual and translate into conflict for a society.  Fear, in the face of real danger, can help for survival.  When that same fear appears in less consequential scenarios, irrational and emotional decisions can be made.  Fear is a key tool in marketing, and many advertising campaigns use fear to illicit irrational decisions in consumers.  Do you really need that extra-thermal, extra-down, and extra-weather proof jacket?  In a more serious note, fear of new and different people has created immense injustices and social divides.  Greed works in a similar way.  The greed addiction generates a momentary high, and in the process sacrifices the happiness from acts of generosity.  These emotions create a tremendous amount of negativity in the mind and escalate developments of anxiety and depression.  As fear and greed dominate culture and society, large amounts of animosity and division will appear.  It Is not easy to cut back on these human emotions, but awareness of the detriments personally and societally is the first step.  Albert Einstein famously explains: “Three great forces rule the world: stupidity, fear, and greed.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2017/01/18/fear.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2017/01/18/fear.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Repetition</title>
+        <description>&lt;p&gt;​Truisms pervade our lives, appearing on Hallmark cards, posters, book titles, songs, and any medium of communication.  A combination of the frequency and pedestrian nature of the truisms and our ever waning attention spans has lessened the importance of these quotes.  Phrases like “Look before you leap” or “Never give up” are treated as educational phrases to teach elementary students, not wisdom-packed life lessons for grown adults.  Only through traumatic life experiences do we begin to appreciate these precautionary statements.  This phenomenon of overlooking unexciting concepts is a weakness of human nature and is being exploited by an explosion of information and stimuli.&lt;/p&gt;
+
+&lt;p&gt;In science and mathematics, formulas concisely explain difficult concepts.  We have all heard of E=mc^2 or F=ma.  These formulas are related to energy and force.  However, to excel at mechanics and to use these formulas meaningfully and creatively, the physicist must use and apply these formulas over and over again.  The repetition makes the formulas part of the user, and when he looks at the formula, he is reminded of all the experiences associated with these simple symbols.  From derivation, to application, to disagreement, to acceptance, and finally to appreciation, the physicist transforms his understanding of the formula.  At the very end, after years of use, the physicist will finally marvel at the existence of the formula.  An elementary read of the symbols gives no justice for the history that lies behind the letters.&lt;/p&gt;
+
+&lt;p&gt;Understanding a concept takes time and deliberation.  When reading a book or learning a theorem, we generally do not grasp the ideas on the first take.  Deliberate repetition is the only way to gain knowledge and real experience.  This concept applies to every aspect of our lives, from learning, to practicing a sport, and to loving a significant other.  It takes humility to admit that we do not truly understand the truisms and it takes great amounts of effort to deliberately learn these wisdoms.  Our experience of the world and how we treat others depend on our mastery of concepts.  And so I give one last piece of advice: reread this blog post!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2017/01/05/repetition.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2017/01/05/repetition.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Fear &amp; Optimism</title>
+        <description>&lt;p&gt;​People have different personalities and levels of risk aversion, and these traits change with experiences.  Exposure to stress and loss may increase negativity and fear.  Conversely, camaraderie and good luck may do the opposite.  Fear has become a dominant force in media, exemplified by the latest US presidential election.  The media psychologists have realized the attention grabbing characteristic of fear and have loaded their arsenal with as much of it as possible.  The worst response to this fear is hostility, especially if the fear is not rationally understood.&lt;/p&gt;
+
+&lt;p&gt;The core message of the movie “How to Train Your Own Dragon” challenges the ignorance associated with fear.  The tough Viking colony is in constant battle with the perceived vicious dragons that occupy the same land.  It takes an intelligent, compassionate, and bold child to question that fear and create harmony.  The dragons are not faultless either.  Their hostile response to the Vikings augmented the chaos.&lt;/p&gt;
+
+&lt;p&gt;Fear affects people differently.  Under immense pressure and stress, aggression and hostility are inevitable.  It takes a high level of optimism and understanding to react calmly and rationally.  The domino effect of fear then aggression, then hostility, and more fear is extremely dangerous.  Fear is not always something that we can control, and the emotional response is certainly real.  There are two responsibilities that we do have.  The first is to learn about the fear and to understand why we are scared.  Blind fear has no benefits.  The second responsibility is to take on the risk of potential disaster (or likely no disaster) and be more optimistic.  Imagining worst case scenarios produces irrational behavior and more fear.  Life is not predictable, and living one defensively produces negativity for the mind and can even consume the mind.  Acts of kindness, smiles, and often just the lack of hostility can create more peace and happiness, especially in the face of fear and hostility.  The domino effect of kindness, then love, then optimism, and more kindness can be just as powerful.  The psychological effect of optimism pervades the mind and can spread wildly to those around us.  Optimism, by definition, combats fear.  As well-known psychologist Amos Tversky puts it: “when you are a pessimist and the bad thing happens, you live it twice. Once when you worry about it, and the second time when it happens.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Dec 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2016/12/21/fear.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2016/12/21/fear.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Rethinking Our World</title>
+        <description>&lt;p&gt;Humans are reactionary beings.  We use our five senses to perceive the world, and we react voluntarily and involuntarily to stimuli.  When we see a smile or laughter, our mood gets affected positively, and conversely when we see something grotesque, we get affected negatively.  It is often difficult to step back and think about these stimuli before reacting.  Growing up, we all use these stimuli to describe the world that we live in and help us learn.  We stereotype a chair as an object for sitting, and we stereotype bread as something to eat.  This method works to the extent that our experiences validate these stereotypes.  As the world and our lives become more and more complex, we also need assistance in understanding the world.  We use parents, friends, literature, and other sources of knowledge to stereotype and describe the world.  Without these methods, we do not grow and we do not learn.&lt;/p&gt;
+
+&lt;p&gt;This method of learning is not perfect.  It relies on a person’s sample of experiences to represent that of the world, and it relies on the moral judgment of all the sources of information available.  As the amount of information and stimuli increase in today’s world, it becomes increasingly important to be diligent when formulating an opinion, especially on another person.  This concept may sound simple, but I believe is one of the hardest to accomplish in practice.  We are all extremely engrained in a world based on only our experiences, and to take a step back and question everything that we have ever learned is incredibly difficult.&lt;/p&gt;
+
+&lt;p&gt;From a young age, kids are taught that bullies, robbers, killers, and those that commit crimes are bad.  Some deserve to go to jail and stay there to protect the rest of the population.  Kids are often taught not to commit these crimes that can land them in jail.  There is often very little education on what drives the criminals to commit those crimes, how stress and pressure can bring the negatives out of someone, and how the prison environment can create or amplify criminal tendencies.    The Stanford Prison Experiment (https://en.wikipedia.org/wiki/Stanford_prison_experiment) gives a glimpse of what an average person can become in a stressed environment.  This 1971 experiment took college students and assigned them roles of prisoners and guards in a make-believe prison.  The result of the experiment shocked everyone, including the students themselves.  The guards gradually started to abuse their power and culminated in psychological torture of the prisoners.  The prisoners eventually succumbed to the abuse and even turned on those who tried to defy the guards.  The experiment had to be terminated after only 6 days due to the damage inflicted on everyone involved.   When looking back at the experiment, the students were shocked at what had happened and deeply ashamed of what they were capable of.&lt;/p&gt;
+
+&lt;p&gt;It is difficult or even impossible to question everything that we believe.  We would cease to have opinions and cease to understand anything.  However, given the chance, we do have the responsibility to not make quick judgment, especially of other people.  Without living their lives and without having their personalities, we have very little information to make opinions.  We have the responsibility to consider all the angles before making a decision, especially one that may affect other people around the world.  It is awesomely tedious to figure out all the different angles, but it is also our responsibility not to be lazy.  In A People’s History of the United States, the author Howard Zinn quotes an explorer’s reaction to finding indigenous people: “They … brought us parrots and balls of cotton and spears and many other things, which they exchanged for the glass beads and hawks’ bells. They willingly traded everything they owned… . They were well-built, with good bodies and handsome features…. They do not bear arms, and do not know them, for I showed them a sword, they took it by the edge and cut themselves out of ignorance. They have no iron. Their spears are made of cane… . They would make fine servants…. With fifty men we could subjugate them all and make them do whatever we want.” On the second Monday of every October, citizens of the United States celebrate this explorer’s landing in America, a national holiday called Columbus Day.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Dec 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2016/12/12/rethinking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2016/12/12/rethinking.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>We Live 100%</title>
+        <description>&lt;p&gt;The blog’s first post emphasized the importance of valuing practice in today’s ultra-competitive and results-oriented world.   This post examines how our minds live for a few moments of intensity, forgetting the majority of our days living on this Earth.  There is less and less time to think and reflect on the journey.  When big goals are reached, a high is experienced throughout the body.  When a tennis player wins Wimbledon or when someone wins the lottery, an immense feeling of ecstasy shocks the body.  Those that witness these moments are awed by the intensity and consequently look for their own high.  However, two observations bring these moments back to life.  1) Many studies have shown that happiness is not correlated with fame or financial success.  2) Happiness levels revert back to a base level after spikes.&lt;/p&gt;
+
+&lt;p&gt;We live 100% of the moments of our lives.  The majority of our lives are not spent relishing an achievement, and it shouldn’t be.  Many famous actors, directors, authors, scientists, and world leaders have admitted that they were not happier after obtaining great fame or wealth.  Many have donated their wealth and looked for other means for happiness.  Warren Buffet, Bill Gates, and many other billionaires have pledged to donate 99% of their wealth.  The CEO of Zappos Tony Hsieh and movie director Tom Shadyac have moved into trailer parks, seeking happiness that they could not get from their earnings.&lt;/p&gt;
+
+&lt;p&gt;Another argument that downplays the impact of big life events is the Hedonic Treadmill concept (https://en.wikipedia.org/wiki/Hedonic_treadmill).  The idea is that a person’s happiness will revert back to the mean no matter how extreme a life event is.  Experiments have shown that a few months after a death in the family or a big career change, a person’s general happiness returns to a base level.  Fluctuations in this base level, however, are often mental.  Meditation and consistent practice strengthen the mind over time.  These philosophies focus on the 99.9% of our lives, the times when we are alone, when we are doing chores, when we are traveling, and when we are not overstimulated.  Knowing that big events in our lives do not affect our day-to-day significantly augments the importance of living in the moment, and in way one makes living our lives easier as the stress of living for the 0.1% goes away.&lt;/p&gt;
+
+&lt;p&gt;As our lives whisk by in this fast-paced modern world, we often get trapped by stress and stimuli.  The adages that say “life is about the journey” or “live in the moment” are becoming more important in the modern world.  Yoga and meditation are becoming ever more popular and vital to survival.  Instead of living for a few moments of life, we should live for all the moments of life.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Oct 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/yogamentals_clean/blog/2016/10/25/we-live-100.html</link>
+        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean/blog/2016/10/25/we-live-100.html</guid>
         
         
         <category>blog</category>

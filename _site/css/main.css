@@ -102,11 +102,11 @@ code { background: #fafafd; padding: 0.063em; border: 0.063em solid #dedede; }
 
 .hours { width: 300px; height: 300px; top: 150px; left: 150px; position: absolute; text-align: center; line-height: 280px; font-size: 133pt; border-radius: 50%; background-color: rgba(181, 181, 181, 0.4); }
 
-.site-name { max-width: 940px; padding: 0 10px; margin: 0 auto; text-align: right; position: relative; height: 100%; }
+.site-name { max-width: 64%; padding: 0 10px; margin: 0 auto; text-align: right; position: relative; height: 50%; }
 
 .site-name__inner { position: absolute; top: 150px; width: 100%; right: 0; width: 400px; }
 
-.site-name__inner .name { font-size: 100px; font-family: 'Source Sans Pro', sans-serif; }
+.site-name__inner .name { font-size: 75px; font-family: 'Source Sans Pro', sans-serif; text-align: right; }
 
 .site-name__inner .desc { font-size: 20px; font-family: 'Open Sans', sans-serif; }
 
