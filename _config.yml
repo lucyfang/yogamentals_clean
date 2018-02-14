@@ -3,8 +3,8 @@ title: yogamentals
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   Yoga is a physical exercise that strengthens the body in various ways. One important body part that yoga helps to stretch is the brain. The fundamental theories of yoga (yogamentals) can bring great wisdom to the rest of our lives. This blog explores the philosophies of life in today’s world through science, research, and data analysis.
-baseurl: "yogamentals_clean/" # the subpath of your site, e.g. /blog/
-url: "https://lucyfang.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://lucyfang.github.io/yogamentals_clean/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 

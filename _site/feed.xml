@@ -4,11 +4,11 @@
     <title>yogamentals</title>
     <description>Yoga is a physical exercise that strengthens the body in various ways. One important body part that yoga helps to stretch is the brain. The fundamental theories of yoga (yogamentals) can bring great wisdom to the rest of our lives. This blog explores the philosophies of life in today’s world through science, research, and data analysis.
 </description>
-    <link>http://localhost:4000/yogamentals_clean//</link>
-    <atom:link href="http://localhost:4000/yogamentals_clean//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Feb 2018 19:52:07 +0530</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2018 19:52:07 +0530</lastBuildDate>
-    <generator>Jekyll v3.7.2</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Feb 2018 06:23:01 +0530</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 06:23:01 +0530</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>A Clean Jekyll theme</title>
@@ -45,8 +45,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
 
 </description>
         <pubDate>Sun, 27 Sep 2015 00:21:59 +0530</pubDate>
-        <link>http://localhost:4000/yogamentals_clean//jekyll/update/2015/09/27/clean-theme.html</link>
-        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean//jekyll/update/2015/09/27/clean-theme.html</guid>
+        <link>http://localhost:4000/jekyll/update/2015/09/26/clean-theme.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/09/26/clean-theme.html</guid>
         
         
         <category>jekyll</category>
@@ -60,8 +60,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
         <description>&lt;p&gt;Hello Jekyll&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/yogamentals_clean//jekyll/update/2015/09/26/hello.html</link>
-        <guid isPermaLink="true">http://localhost:4000/yogamentals_clean//jekyll/update/2015/09/26/hello.html</guid>
+        <link>http://localhost:4000/jekyll/update/2015/09/26/hello.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/09/26/hello.html</guid>
         
         
         <category>jekyll</category>
