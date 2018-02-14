@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Feb 2018 06:23:01 +0530</pubDate>
-    <lastBuildDate>Wed, 14 Feb 2018 06:23:01 +0530</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2018 06:56:58 +0530</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 06:56:58 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -45,13 +45,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
 
 </description>
         <pubDate>Sun, 27 Sep 2015 00:21:59 +0530</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/09/26/clean-theme.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/09/26/clean-theme.html</guid>
+        <link>http://localhost:4000/blog/2015/09/26/clean-theme.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/09/26/clean-theme.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>blog</category>
         
       </item>
     
@@ -60,13 +58,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
         <description>&lt;p&gt;Hello Jekyll&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/09/26/hello.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/09/26/hello.html</guid>
+        <link>http://localhost:4000/blog/2015/09/26/hello.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/09/26/hello.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>blog</category>
         
       </item>
     
